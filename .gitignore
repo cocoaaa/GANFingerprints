@@ -27,6 +27,7 @@ temp/
 # Generated samples, model ckpts
 samples/
 models/
+cramergan-models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
